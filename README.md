@@ -1,2 +1,4 @@
 # falabot
-Website
+Website e-commerce
+Falabot v1.0
+
